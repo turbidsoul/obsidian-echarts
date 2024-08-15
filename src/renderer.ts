@@ -1,5 +1,6 @@
 import * as echarts from 'echarts'
 import 'echarts-wordcloud'
+import 'echarts-extension-amap'
 import { OptionsType } from './type'
 import { getAPI } from 'obsidian-dataview'
 import { Notice } from 'obsidian'
